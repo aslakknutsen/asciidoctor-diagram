@@ -24,11 +24,11 @@ ifndef::env-site[:status:]
 :uri-java: http://java.sun.com
 :uri-mermaid: http://knsv.github.io/mermaid/
 :uri-nwdiag: http://blockdiag.com/en/nwdiag/index.html
-:uri-packetdiag: http://blockdiag.com/en/nwdiag/index.html
+:uri-packetdiag: http://blockdiag.com/en/nwdiag/packetdiag-examples.html
 :uri-phantomjs: http://phantomjs.org
 :uri-plantuml: http://plantuml.sourceforge.net
 :uri-py-plantuml: https://code.google.com/p/asciidoc-plantuml/
-:uri-rackdiag: http://blockdiag.com/en/nwdiag/index.html
+:uri-rackdiag: http://blockdiag.com/en/nwdiag/rackdiag-examples.html
 :uri-seqdiag: http://blockdiag.com/en/seqdiag/index.html
 :uri-shaape: https://github.com/christiangoltz/shaape
 :uri-wavedrom: http://wavedrom.com
